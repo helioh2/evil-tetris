@@ -1,0 +1,10 @@
+﻿{
+	"extName": {
+		"message": "Evil Tetris",
+		"description": "App name"
+	},	
+	"extDesc": {
+		"message": "A Tetris game with extra pieces for your fun... or anger!!",
+		"description": "App description"
+	}
+}

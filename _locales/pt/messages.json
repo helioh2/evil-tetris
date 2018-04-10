@@ -1,0 +1,10 @@
+﻿{
+	"extName": {
+		"message": "Tetris do Mal",
+		"description": "Nome do aplicativo."
+	},
+	"extDesc": {
+		"message": "Um Tetris com peças extra para se divertir... ou passar raiva!!",
+		"description": "Descrição do aplicativo."
+	}
+}
